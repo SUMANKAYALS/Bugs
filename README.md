@@ -182,12 +182,6 @@ Full Stack Developer
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
