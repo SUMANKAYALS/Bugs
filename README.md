@@ -152,7 +152,14 @@ User Model:
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### 🏠 Home Page
+![Home Page](public/project_image.png)
+
+### 👤 Create Bug
+![Create Bug](public/createbug.png)
+
+### 👤 Profile Page
+![Profile](public/profile.png)
 
 ---
 
